@@ -67,7 +67,8 @@ if ret:
 
 cap.release()
 ```
-<img width="714" height="558" alt="Screenshot 2026-09-02 174450" src="https://github.com/user-attachments/assets/c9843f58-4e3c-4222-98d6-fb1ee7f6a4e1" />
+<img width="565" height="452" alt="image" src="https://github.com/user-attachments/assets/8d512bd1-184b-409b-ae15-8fea2a25dd65" />
+
 
 ### ii) Display the video
 Live webcam video is displayed
@@ -96,7 +97,8 @@ for i in range(50):
 
 cap.release()
 ```
-<img width="699" height="550" alt="Screenshot 2026-09-02 174510" src="https://github.com/user-attachments/assets/ecb4d849-38cb-4051-8172-87e56dfa9826" />
+<img width="566" height="430" alt="image" src="https://github.com/user-attachments/assets/7757cf22-4115-4c25-a7f6-da02b000eed3" />
+
 
 
 ### iii) Display the video by resizing the window
@@ -130,7 +132,7 @@ for i in range(50):
 
 cap.release()
 ```
-<img width="722" height="539" alt="Screenshot 2026-09-02 174526" src="https://github.com/user-attachments/assets/7a3ff6db-e4a2-4a66-8c37-a69b85293252" />
+<img width="290" height="435" alt="image" src="https://github.com/user-attachments/assets/68d77890-f142-419e-94a5-f7a8ddee6bd7" />
 
 ### iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
@@ -163,7 +165,8 @@ for i in range(50):
 
 cap.release()
 ```
-<img width="412" height="566" alt="Screenshot 2026-09-02 174546" src="https://github.com/user-attachments/assets/15739f0e-a19d-41b8-9814-06c7c44ded61" />
+<img width="325" height="423" alt="image" src="https://github.com/user-attachments/assets/0c13d8a4-aabc-4893-8d84-b50bb72e4e4e" />
+
 
 ---
 
